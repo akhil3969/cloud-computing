@@ -1,0 +1,7 @@
+{
+  "building": {"S": "Library-A"},
+  "ts_id": {"S": "2026-10-09T10:00:00Z#evt-test"},
+  "event_type": {"S": "temperature"},
+  "value": {"N": "31"},
+  "alert": {"S": "1"}
+}
