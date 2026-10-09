@@ -6,7 +6,7 @@ from decimal import Decimal
 import boto3
 from boto3.dynamodb.conditions import Key
 
-from campus_rules import validate_event, evaluate_rules, compute_stats
+from event_rules_validation import validate_event, evaluate_rules, compute_stats
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)

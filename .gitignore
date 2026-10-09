@@ -5,3 +5,6 @@ __pycache__/
 *.pem
 *.tfstate*
 .terraform/
+*.local.json
+function.zip
+generator.zip
